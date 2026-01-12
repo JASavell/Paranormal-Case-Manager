@@ -1,10 +1,12 @@
-Paranormal Investigation Case Manager
+Paranormal Investigation Case Manager by Josh Savell.
 
 Welcome to Paranormal Investigation Case Manager, a centralized software solution designed for investigators who catalog the unexplained, document the uncanny, and bring order to the chaos of the unknown.
 
 This application helps you manage cases from first contact to final report, ensuring that no whisper, shadow, or EVP is ever lost to time.
 
 Please if you like this software spread the word and if you plan to modify it the only thing I require is a credit.
+You can see what we do at https://maps-paranormal.com
+
 
 
 Core Features
