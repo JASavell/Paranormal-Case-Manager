@@ -7,7 +7,8 @@ This application helps you manage cases from first contact to final report, ensu
 Please if you like this software spread the word and if you plan to modify it the only thing I require is a credit.
 You can see what we do at https://maps-paranormal.com
 
-
+You will need ffmpeg.exe in your project directory if you are building from source, you can find it here:
+https://www.ffmpeg.org/download.html
 
 Core Features
 ---------------------------------------------------------------------
