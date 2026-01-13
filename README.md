@@ -10,6 +10,8 @@ You can see what we do at https://maps-paranormal.com
 You will need ffmpeg.exe in your project directory if you are building from source, you can find it here:
 https://www.ffmpeg.org/download.html
 
+Explanier videos can be found here: https://www.youtube.com/playlist?list=PLEdxYx1Rv1u3XqLWKWcyMbxYnKqI0McKc
+
 Core Features
 ---------------------------------------------------------------------
 Client Management
